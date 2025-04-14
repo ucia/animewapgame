@@ -1,0 +1,402 @@
+[
+  {
+    "id": "enemy_0",
+    "name": "Spider Lv.8",
+    "hp": 202,
+    "attack": 44,
+    "defense": 10,
+    "image": "enemy_spider.png"
+  },
+  {
+    "id": "enemy_1",
+    "name": "Wolf Lv.9",
+    "hp": 333,
+    "attack": 49,
+    "defense": 10,
+    "image": "enemy_wolf.png"
+  },
+  {
+    "id": "enemy_2",
+    "name": "Dragon Lv.10",
+    "hp": 228,
+    "attack": 34,
+    "defense": 24,
+    "image": "enemy_dragon.png"
+  },
+  {
+    "id": "enemy_3",
+    "name": "Skeleton Lv.7",
+    "hp": 481,
+    "attack": 37,
+    "defense": 8,
+    "image": "enemy_skeleton.png"
+  },
+  {
+    "id": "enemy_4",
+    "name": "Skeleton Lv.3",
+    "hp": 349,
+    "attack": 19,
+    "defense": 10,
+    "image": "enemy_skeleton.png"
+  },
+  {
+    "id": "enemy_5",
+    "name": "Slime Lv.1",
+    "hp": 248,
+    "attack": 33,
+    "defense": 19,
+    "image": "enemy_slime.png"
+  },
+  {
+    "id": "enemy_6",
+    "name": "Orc Lv.6",
+    "hp": 402,
+    "attack": 46,
+    "defense": 23,
+    "image": "enemy_orc.png"
+  },
+  {
+    "id": "enemy_7",
+    "name": "Mage Lv.8",
+    "hp": 216,
+    "attack": 32,
+    "defense": 28,
+    "image": "enemy_mage.png"
+  },
+  {
+    "id": "enemy_8",
+    "name": "Spider Lv.1",
+    "hp": 140,
+    "attack": 36,
+    "defense": 20,
+    "image": "enemy_spider.png"
+  },
+  {
+    "id": "enemy_9",
+    "name": "Orc Lv.10",
+    "hp": 216,
+    "attack": 16,
+    "defense": 30,
+    "image": "enemy_orc.png"
+  },
+  {
+    "id": "enemy_10",
+    "name": "Wolf Lv.9",
+    "hp": 109,
+    "attack": 35,
+    "defense": 17,
+    "image": "enemy_wolf.png"
+  },
+  {
+    "id": "enemy_11",
+    "name": "Orc Lv.8",
+    "hp": 371,
+    "attack": 33,
+    "defense": 10,
+    "image": "enemy_orc.png"
+  },
+  {
+    "id": "enemy_12",
+    "name": "Skeleton Lv.6",
+    "hp": 187,
+    "attack": 13,
+    "defense": 30,
+    "image": "enemy_skeleton.png"
+  },
+  {
+    "id": "enemy_13",
+    "name": "Mage Lv.7",
+    "hp": 411,
+    "attack": 42,
+    "defense": 25,
+    "image": "enemy_mage.png"
+  },
+  {
+    "id": "enemy_14",
+    "name": "Spider Lv.5",
+    "hp": 409,
+    "attack": 19,
+    "defense": 30,
+    "image": "enemy_spider.png"
+  },
+  {
+    "id": "enemy_15",
+    "name": "Mage Lv.7",
+    "hp": 487,
+    "attack": 29,
+    "defense": 6,
+    "image": "enemy_mage.png"
+  },
+  {
+    "id": "enemy_16",
+    "name": "Slime Lv.1",
+    "hp": 282,
+    "attack": 46,
+    "defense": 28,
+    "image": "enemy_slime.png"
+  },
+  {
+    "id": "enemy_17",
+    "name": "Slime Lv.10",
+    "hp": 385,
+    "attack": 43,
+    "defense": 10,
+    "image": "enemy_slime.png"
+  },
+  {
+    "id": "enemy_18",
+    "name": "Wolf Lv.1",
+    "hp": 428,
+    "attack": 31,
+    "defense": 7,
+    "image": "enemy_wolf.png"
+  },
+  {
+    "id": "enemy_19",
+    "name": "Dragon Lv.9",
+    "hp": 57,
+    "attack": 12,
+    "defense": 28,
+    "image": "enemy_dragon.png"
+  },
+  {
+    "id": "enemy_20",
+    "name": "Mage Lv.5",
+    "hp": 129,
+    "attack": 13,
+    "defense": 28,
+    "image": "enemy_mage.png"
+  },
+  {
+    "id": "enemy_21",
+    "name": "Mage Lv.7",
+    "hp": 100,
+    "attack": 32,
+    "defense": 21,
+    "image": "enemy_mage.png"
+  },
+  {
+    "id": "enemy_22",
+    "name": "Slime Lv.6",
+    "hp": 185,
+    "attack": 36,
+    "defense": 15,
+    "image": "enemy_slime.png"
+  },
+  {
+    "id": "enemy_23",
+    "name": "Dragon Lv.4",
+    "hp": 335,
+    "attack": 28,
+    "defense": 25,
+    "image": "enemy_dragon.png"
+  },
+  {
+    "id": "enemy_24",
+    "name": "Dragon Lv.10",
+    "hp": 232,
+    "attack": 37,
+    "defense": 7,
+    "image": "enemy_dragon.png"
+  },
+  {
+    "id": "enemy_25",
+    "name": "Skeleton Lv.1",
+    "hp": 154,
+    "attack": 10,
+    "defense": 25,
+    "image": "enemy_skeleton.png"
+  },
+  {
+    "id": "enemy_26",
+    "name": "Skeleton Lv.2",
+    "hp": 200,
+    "attack": 19,
+    "defense": 20,
+    "image": "enemy_skeleton.png"
+  },
+  {
+    "id": "enemy_27",
+    "name": "Skeleton Lv.6",
+    "hp": 273,
+    "attack": 50,
+    "defense": 17,
+    "image": "enemy_skeleton.png"
+  },
+  {
+    "id": "enemy_28",
+    "name": "Goblin Lv.9",
+    "hp": 338,
+    "attack": 48,
+    "defense": 12,
+    "image": "enemy_goblin.png"
+  },
+  {
+    "id": "enemy_29",
+    "name": "Orc Lv.7",
+    "hp": 148,
+    "attack": 22,
+    "defense": 28,
+    "image": "enemy_orc.png"
+  },
+  {
+    "id": "enemy_30",
+    "name": "Spider Lv.8",
+    "hp": 438,
+    "attack": 35,
+    "defense": 22,
+    "image": "enemy_spider.png"
+  },
+  {
+    "id": "enemy_31",
+    "name": "Goblin Lv.1",
+    "hp": 90,
+    "attack": 19,
+    "defense": 12,
+    "image": "enemy_goblin.png"
+  },
+  {
+    "id": "enemy_32",
+    "name": "Bandit Lv.1",
+    "hp": 85,
+    "attack": 41,
+    "defense": 20,
+    "image": "enemy_bandit.png"
+  },
+  {
+    "id": "enemy_33",
+    "name": "Dragon Lv.1",
+    "hp": 434,
+    "attack": 13,
+    "defense": 22,
+    "image": "enemy_dragon.png"
+  },
+  {
+    "id": "enemy_34",
+    "name": "Skeleton Lv.3",
+    "hp": 432,
+    "attack": 36,
+    "defense": 23,
+    "image": "enemy_skeleton.png"
+  },
+  {
+    "id": "enemy_35",
+    "name": "Wolf Lv.2",
+    "hp": 277,
+    "attack": 21,
+    "defense": 22,
+    "image": "enemy_wolf.png"
+  },
+  {
+    "id": "enemy_36",
+    "name": "Goblin Lv.3",
+    "hp": 249,
+    "attack": 21,
+    "defense": 29,
+    "image": "enemy_goblin.png"
+  },
+  {
+    "id": "enemy_37",
+    "name": "Orc Lv.8",
+    "hp": 174,
+    "attack": 31,
+    "defense": 20,
+    "image": "enemy_orc.png"
+  },
+  {
+    "id": "enemy_38",
+    "name": "Goblin Lv.3",
+    "hp": 354,
+    "attack": 29,
+    "defense": 14,
+    "image": "enemy_goblin.png"
+  },
+  {
+    "id": "enemy_39",
+    "name": "Bandit Lv.7",
+    "hp": 304,
+    "attack": 35,
+    "defense": 18,
+    "image": "enemy_bandit.png"
+  },
+  {
+    "id": "enemy_40",
+    "name": "Bandit Lv.2",
+    "hp": 350,
+    "attack": 19,
+    "defense": 17,
+    "image": "enemy_bandit.png"
+  },
+  {
+    "id": "enemy_41",
+    "name": "Wolf Lv.4",
+    "hp": 419,
+    "attack": 38,
+    "defense": 8,
+    "image": "enemy_wolf.png"
+  },
+  {
+    "id": "enemy_42",
+    "name": "Zombie Lv.1",
+    "hp": 494,
+    "attack": 13,
+    "defense": 21,
+    "image": "enemy_zombie.png"
+  },
+  {
+    "id": "enemy_43",
+    "name": "Bandit Lv.5",
+    "hp": 275,
+    "attack": 40,
+    "defense": 17,
+    "image": "enemy_bandit.png"
+  },
+  {
+    "id": "enemy_44",
+    "name": "Slime Lv.5",
+    "hp": 310,
+    "attack": 24,
+    "defense": 26,
+    "image": "enemy_slime.png"
+  },
+  {
+    "id": "enemy_45",
+    "name": "Dragon Lv.9",
+    "hp": 496,
+    "attack": 36,
+    "defense": 19,
+    "image": "enemy_dragon.png"
+  },
+  {
+    "id": "enemy_46",
+    "name": "Dragon Lv.8",
+    "hp": 368,
+    "attack": 48,
+    "defense": 5,
+    "image": "enemy_dragon.png"
+  },
+  {
+    "id": "enemy_47",
+    "name": "Orc Lv.8",
+    "hp": 284,
+    "attack": 44,
+    "defense": 13,
+    "image": "enemy_orc.png"
+  },
+  {
+    "id": "enemy_48",
+    "name": "Skeleton Lv.9",
+    "hp": 109,
+    "attack": 20,
+    "defense": 11,
+    "image": "enemy_skeleton.png"
+  },
+  {
+    "id": "enemy_49",
+    "name": "Bandit Lv.10",
+    "hp": 380,
+    "attack": 38,
+    "defense": 14,
+    "image": "enemy_bandit.png"
+  }
+]

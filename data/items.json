@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "item_0",
+    "name": "Common Potion 0",
+    "type": "Potion",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 45
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_1",
+    "name": "Legendary Ring 1",
+    "type": "Ring",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_2",
+    "name": "Rare Shield 2",
+    "type": "Shield",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 19,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_3",
+    "name": "Uncommon Armor 3",
+    "type": "Armor",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 4,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_4",
+    "name": "Uncommon Ring 4",
+    "type": "Ring",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_5",
+    "name": "Rare Shield 5",
+    "type": "Shield",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 18,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_6",
+    "name": "Common Potion 6",
+    "type": "Potion",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 81
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_7",
+    "name": "Epic Ring 7",
+    "type": "Ring",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_8",
+    "name": "Uncommon Boots 8",
+    "type": "Boots",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_9",
+    "name": "Epic Boots 9",
+    "type": "Boots",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_10",
+    "name": "Rare Armor 10",
+    "type": "Armor",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 19,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_11",
+    "name": "Common Ring 11",
+    "type": "Ring",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_12",
+    "name": "Legendary Boots 12",
+    "type": "Boots",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_13",
+    "name": "Epic Ring 13",
+    "type": "Ring",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_14",
+    "name": "Epic Potion 14",
+    "type": "Potion",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 32
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_15",
+    "name": "Uncommon Sword 15",
+    "type": "Sword",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 3,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_16",
+    "name": "Legendary Armor 16",
+    "type": "Armor",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 15,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_17",
+    "name": "Uncommon Shield 17",
+    "type": "Shield",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 5,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_18",
+    "name": "Rare Ring 18",
+    "type": "Ring",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_19",
+    "name": "Legendary Sword 19",
+    "type": "Sword",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 10,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_20",
+    "name": "Rare Armor 20",
+    "type": "Armor",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 2,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_21",
+    "name": "Rare Sword 21",
+    "type": "Sword",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 4,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_22",
+    "name": "Epic Shield 22",
+    "type": "Shield",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 17,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_23",
+    "name": "Legendary Boots 23",
+    "type": "Boots",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_24",
+    "name": "Rare Armor 24",
+    "type": "Armor",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 18,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_25",
+    "name": "Rare Sword 25",
+    "type": "Sword",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 14,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_26",
+    "name": "Epic Ring 26",
+    "type": "Ring",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_27",
+    "name": "Uncommon Armor 27",
+    "type": "Armor",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 14,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_28",
+    "name": "Rare Ring 28",
+    "type": "Ring",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_29",
+    "name": "Rare Sword 29",
+    "type": "Sword",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 4,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_30",
+    "name": "Epic Shield 30",
+    "type": "Shield",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 2,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_31",
+    "name": "Common Shield 31",
+    "type": "Shield",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 13,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_32",
+    "name": "Common Armor 32",
+    "type": "Armor",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 17,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_33",
+    "name": "Epic Ring 33",
+    "type": "Ring",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_34",
+    "name": "Epic Boots 34",
+    "type": "Boots",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_35",
+    "name": "Epic Potion 35",
+    "type": "Potion",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 65
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_36",
+    "name": "Common Armor 36",
+    "type": "Armor",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 20,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_37",
+    "name": "Rare Boots 37",
+    "type": "Boots",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_38",
+    "name": "Uncommon Amulet 38",
+    "type": "Amulet",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 10,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_39",
+    "name": "Legendary Shield 39",
+    "type": "Shield",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 2,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_40",
+    "name": "Uncommon Shield 40",
+    "type": "Shield",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 20,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_41",
+    "name": "Common Amulet 41",
+    "type": "Amulet",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 15,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_42",
+    "name": "Rare Boots 42",
+    "type": "Boots",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_43",
+    "name": "Epic Sword 43",
+    "type": "Sword",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 19,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_44",
+    "name": "Common Armor 44",
+    "type": "Armor",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 7,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_45",
+    "name": "Rare Amulet 45",
+    "type": "Amulet",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 3,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_46",
+    "name": "Common Amulet 46",
+    "type": "Amulet",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 6,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_47",
+    "name": "Legendary Ring 47",
+    "type": "Ring",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_48",
+    "name": "Epic Amulet 48",
+    "type": "Amulet",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 8,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_49",
+    "name": "Legendary Potion 49",
+    "type": "Potion",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 58
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_50",
+    "name": "Common Boots 50",
+    "type": "Boots",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_51",
+    "name": "Epic Potion 51",
+    "type": "Potion",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 96
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_52",
+    "name": "Legendary Potion 52",
+    "type": "Potion",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 45
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_53",
+    "name": "Epic Armor 53",
+    "type": "Armor",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 11,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_54",
+    "name": "Legendary Sword 54",
+    "type": "Sword",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 14,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_55",
+    "name": "Legendary Armor 55",
+    "type": "Armor",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 5,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_56",
+    "name": "Legendary Boots 56",
+    "type": "Boots",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_57",
+    "name": "Common Ring 57",
+    "type": "Ring",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_58",
+    "name": "Epic Armor 58",
+    "type": "Armor",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 11,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_59",
+    "name": "Rare Amulet 59",
+    "type": "Amulet",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 6,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_60",
+    "name": "Rare Shield 60",
+    "type": "Shield",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 5,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_61",
+    "name": "Common Armor 61",
+    "type": "Armor",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 4,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_62",
+    "name": "Epic Potion 62",
+    "type": "Potion",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 48
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_63",
+    "name": "Epic Amulet 63",
+    "type": "Amulet",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 5,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_64",
+    "name": "Uncommon Amulet 64",
+    "type": "Amulet",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 1,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_65",
+    "name": "Common Shield 65",
+    "type": "Shield",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 6,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_66",
+    "name": "Common Armor 66",
+    "type": "Armor",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 1,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_67",
+    "name": "Uncommon Ring 67",
+    "type": "Ring",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_68",
+    "name": "Rare Shield 68",
+    "type": "Shield",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 3,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_69",
+    "name": "Epic Amulet 69",
+    "type": "Amulet",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 13,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_70",
+    "name": "Epic Ring 70",
+    "type": "Ring",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_71",
+    "name": "Uncommon Ring 71",
+    "type": "Ring",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_72",
+    "name": "Legendary Shield 72",
+    "type": "Shield",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 17,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_73",
+    "name": "Epic Potion 73",
+    "type": "Potion",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 89
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_74",
+    "name": "Legendary Boots 74",
+    "type": "Boots",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_75",
+    "name": "Common Armor 75",
+    "type": "Armor",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 16,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_76",
+    "name": "Legendary Boots 76",
+    "type": "Boots",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_77",
+    "name": "Uncommon Ring 77",
+    "type": "Ring",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_78",
+    "name": "Common Amulet 78",
+    "type": "Amulet",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 19,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_79",
+    "name": "Epic Armor 79",
+    "type": "Armor",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 18,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_80",
+    "name": "Uncommon Sword 80",
+    "type": "Sword",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 10,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_81",
+    "name": "Common Boots 81",
+    "type": "Boots",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_82",
+    "name": "Rare Ring 82",
+    "type": "Ring",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_83",
+    "name": "Epic Armor 83",
+    "type": "Armor",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 18,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_84",
+    "name": "Common Armor 84",
+    "type": "Armor",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 7,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_85",
+    "name": "Epic Boots 85",
+    "type": "Boots",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_86",
+    "name": "Rare Amulet 86",
+    "type": "Amulet",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 15,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_87",
+    "name": "Rare Ring 87",
+    "type": "Ring",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_88",
+    "name": "Uncommon Sword 88",
+    "type": "Sword",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 1,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_89",
+    "name": "Rare Armor 89",
+    "type": "Armor",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 16,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_90",
+    "name": "Legendary Amulet 90",
+    "type": "Amulet",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 14,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_91",
+    "name": "Legendary Sword 91",
+    "type": "Sword",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 4,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_92",
+    "name": "Rare Armor 92",
+    "type": "Armor",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 2,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_93",
+    "name": "Common Potion 93",
+    "type": "Potion",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 49
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_94",
+    "name": "Rare Sword 94",
+    "type": "Sword",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 13,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_95",
+    "name": "Legendary Shield 95",
+    "type": "Shield",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 20,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_96",
+    "name": "Legendary Potion 96",
+    "type": "Potion",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 95
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_97",
+    "name": "Epic Shield 97",
+    "type": "Shield",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 12,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_98",
+    "name": "Common Amulet 98",
+    "type": "Amulet",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 20,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_99",
+    "name": "Common Sword 99",
+    "type": "Sword",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 2,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_100",
+    "name": "Common Armor 100",
+    "type": "Armor",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 17,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_101",
+    "name": "Legendary Shield 101",
+    "type": "Shield",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 14,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_102",
+    "name": "Legendary Ring 102",
+    "type": "Ring",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_103",
+    "name": "Rare Amulet 103",
+    "type": "Amulet",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 1,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_104",
+    "name": "Legendary Shield 104",
+    "type": "Shield",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 5,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_105",
+    "name": "Common Amulet 105",
+    "type": "Amulet",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 11,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_106",
+    "name": "Common Amulet 106",
+    "type": "Amulet",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 11,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_107",
+    "name": "Epic Armor 107",
+    "type": "Armor",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 4,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_108",
+    "name": "Common Shield 108",
+    "type": "Shield",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 11,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_109",
+    "name": "Rare Potion 109",
+    "type": "Potion",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 30
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_110",
+    "name": "Legendary Sword 110",
+    "type": "Sword",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 3,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_111",
+    "name": "Uncommon Ring 111",
+    "type": "Ring",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_112",
+    "name": "Common Potion 112",
+    "type": "Potion",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 67
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_113",
+    "name": "Legendary Armor 113",
+    "type": "Armor",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 13,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_114",
+    "name": "Legendary Boots 114",
+    "type": "Boots",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_115",
+    "name": "Uncommon Potion 115",
+    "type": "Potion",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 39
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_116",
+    "name": "Rare Sword 116",
+    "type": "Sword",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 10,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_117",
+    "name": "Epic Amulet 117",
+    "type": "Amulet",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 12,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_118",
+    "name": "Common Shield 118",
+    "type": "Shield",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 16,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_119",
+    "name": "Epic Potion 119",
+    "type": "Potion",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 86
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_120",
+    "name": "Rare Amulet 120",
+    "type": "Amulet",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 2,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_121",
+    "name": "Rare Potion 121",
+    "type": "Potion",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 68
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_122",
+    "name": "Common Ring 122",
+    "type": "Ring",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_123",
+    "name": "Uncommon Ring 123",
+    "type": "Ring",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_124",
+    "name": "Uncommon Shield 124",
+    "type": "Shield",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 3,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_125",
+    "name": "Legendary Shield 125",
+    "type": "Shield",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 10,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_126",
+    "name": "Epic Shield 126",
+    "type": "Shield",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 13,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_127",
+    "name": "Legendary Amulet 127",
+    "type": "Amulet",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 12,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_128",
+    "name": "Uncommon Potion 128",
+    "type": "Potion",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 41
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_129",
+    "name": "Rare Amulet 129",
+    "type": "Amulet",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 17,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_130",
+    "name": "Uncommon Ring 130",
+    "type": "Ring",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_131",
+    "name": "Epic Amulet 131",
+    "type": "Amulet",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 12,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_132",
+    "name": "Uncommon Sword 132",
+    "type": "Sword",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 10,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_133",
+    "name": "Common Ring 133",
+    "type": "Ring",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_134",
+    "name": "Legendary Shield 134",
+    "type": "Shield",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 2,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_135",
+    "name": "Epic Amulet 135",
+    "type": "Amulet",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 3,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_136",
+    "name": "Rare Boots 136",
+    "type": "Boots",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_137",
+    "name": "Uncommon Shield 137",
+    "type": "Shield",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 19,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_138",
+    "name": "Common Potion 138",
+    "type": "Potion",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 74
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_139",
+    "name": "Legendary Potion 139",
+    "type": "Potion",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 32
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_140",
+    "name": "Legendary Sword 140",
+    "type": "Sword",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 4,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_141",
+    "name": "Legendary Armor 141",
+    "type": "Armor",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 11,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_142",
+    "name": "Uncommon Sword 142",
+    "type": "Sword",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 2,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_143",
+    "name": "Common Armor 143",
+    "type": "Armor",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 5,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_144",
+    "name": "Legendary Potion 144",
+    "type": "Potion",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 75
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_145",
+    "name": "Common Boots 145",
+    "type": "Boots",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_146",
+    "name": "Epic Potion 146",
+    "type": "Potion",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 79
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_147",
+    "name": "Legendary Boots 147",
+    "type": "Boots",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_148",
+    "name": "Uncommon Boots 148",
+    "type": "Boots",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_149",
+    "name": "Legendary Potion 149",
+    "type": "Potion",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 16
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_150",
+    "name": "Common Potion 150",
+    "type": "Potion",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 12
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_151",
+    "name": "Common Armor 151",
+    "type": "Armor",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 19,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_152",
+    "name": "Legendary Boots 152",
+    "type": "Boots",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_153",
+    "name": "Legendary Boots 153",
+    "type": "Boots",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_154",
+    "name": "Common Sword 154",
+    "type": "Sword",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 3,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_155",
+    "name": "Legendary Sword 155",
+    "type": "Sword",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 20,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_156",
+    "name": "Common Armor 156",
+    "type": "Armor",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 11,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_157",
+    "name": "Rare Ring 157",
+    "type": "Ring",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_158",
+    "name": "Uncommon Sword 158",
+    "type": "Sword",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 2,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_159",
+    "name": "Uncommon Amulet 159",
+    "type": "Amulet",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 12,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_160",
+    "name": "Common Ring 160",
+    "type": "Ring",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_161",
+    "name": "Rare Amulet 161",
+    "type": "Amulet",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 5,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_162",
+    "name": "Common Armor 162",
+    "type": "Armor",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 18,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_163",
+    "name": "Uncommon Amulet 163",
+    "type": "Amulet",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 1,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_164",
+    "name": "Uncommon Ring 164",
+    "type": "Ring",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_165",
+    "name": "Epic Shield 165",
+    "type": "Shield",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 14,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_166",
+    "name": "Epic Ring 166",
+    "type": "Ring",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_167",
+    "name": "Uncommon Ring 167",
+    "type": "Ring",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_168",
+    "name": "Rare Shield 168",
+    "type": "Shield",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 5,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_169",
+    "name": "Legendary Shield 169",
+    "type": "Shield",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 8,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_170",
+    "name": "Epic Ring 170",
+    "type": "Ring",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_171",
+    "name": "Epic Amulet 171",
+    "type": "Amulet",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 20,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_172",
+    "name": "Uncommon Sword 172",
+    "type": "Sword",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 20,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_173",
+    "name": "Legendary Shield 173",
+    "type": "Shield",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 10,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_174",
+    "name": "Uncommon Potion 174",
+    "type": "Potion",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 76
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_175",
+    "name": "Common Sword 175",
+    "type": "Sword",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 19,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_176",
+    "name": "Uncommon Armor 176",
+    "type": "Armor",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 5,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_177",
+    "name": "Epic Boots 177",
+    "type": "Boots",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_178",
+    "name": "Uncommon Amulet 178",
+    "type": "Amulet",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 6,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_179",
+    "name": "Uncommon Ring 179",
+    "type": "Ring",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_180",
+    "name": "Uncommon Sword 180",
+    "type": "Sword",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 1,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_181",
+    "name": "Legendary Sword 181",
+    "type": "Sword",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 4,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_182",
+    "name": "Rare Potion 182",
+    "type": "Potion",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 73
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_183",
+    "name": "Common Armor 183",
+    "type": "Armor",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 6,
+      "hp": 0
+    },
+    "image": "item_armor.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_184",
+    "name": "Rare Shield 184",
+    "type": "Shield",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 11,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_185",
+    "name": "Uncommon Shield 185",
+    "type": "Shield",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 20,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_186",
+    "name": "Legendary Ring 186",
+    "type": "Ring",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_187",
+    "name": "Epic Shield 187",
+    "type": "Shield",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 4,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_188",
+    "name": "Legendary Sword 188",
+    "type": "Sword",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 15,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_189",
+    "name": "Rare Boots 189",
+    "type": "Boots",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_190",
+    "name": "Legendary Shield 190",
+    "type": "Shield",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 11,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_191",
+    "name": "Legendary Amulet 191",
+    "type": "Amulet",
+    "rarity": "Legendary",
+    "stat_bonus": {
+      "attack": 15,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_192",
+    "name": "Epic Ring 192",
+    "type": "Ring",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_ring.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_193",
+    "name": "Common Amulet 193",
+    "type": "Amulet",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 8,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_amulet.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_194",
+    "name": "Uncommon Shield 194",
+    "type": "Shield",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 19,
+      "hp": 0
+    },
+    "image": "item_shield.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_195",
+    "name": "Uncommon Sword 195",
+    "type": "Sword",
+    "rarity": "Uncommon",
+    "stat_bonus": {
+      "attack": 20,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_196",
+    "name": "Epic Sword 196",
+    "type": "Sword",
+    "rarity": "Epic",
+    "stat_bonus": {
+      "attack": 4,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_sword.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_197",
+    "name": "Common Potion 197",
+    "type": "Potion",
+    "rarity": "Common",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 96
+    },
+    "image": "item_potion.png",
+    "mechanic": "restore_hp"
+  },
+  {
+    "id": "item_198",
+    "name": "Rare Boots 198",
+    "type": "Boots",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  },
+  {
+    "id": "item_199",
+    "name": "Rare Boots 199",
+    "type": "Boots",
+    "rarity": "Rare",
+    "stat_bonus": {
+      "attack": 0,
+      "defense": 0,
+      "hp": 0
+    },
+    "image": "item_boots.png",
+    "mechanic": "equipable"
+  }
+]

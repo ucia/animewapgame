@@ -1,0 +1,122 @@
+[
+  {
+    "id": "zone_0",
+    "name": "Zone 0: Swamp",
+    "min_level": 0,
+    "enemies": [
+      "enemy_6",
+      "enemy_35",
+      "enemy_22",
+      "enemy_49",
+      "enemy_21"
+    ]
+  },
+  {
+    "id": "zone_1",
+    "name": "Zone 1: Mountain",
+    "min_level": 5,
+    "enemies": [
+      "enemy_26",
+      "enemy_11",
+      "enemy_9",
+      "enemy_21",
+      "enemy_47"
+    ]
+  },
+  {
+    "id": "zone_2",
+    "name": "Zone 2: Desert",
+    "min_level": 10,
+    "enemies": [
+      "enemy_30",
+      "enemy_32",
+      "enemy_4",
+      "enemy_3",
+      "enemy_5"
+    ]
+  },
+  {
+    "id": "zone_3",
+    "name": "Zone 3: Desert",
+    "min_level": 15,
+    "enemies": [
+      "enemy_19",
+      "enemy_24",
+      "enemy_7",
+      "enemy_46",
+      "enemy_29"
+    ]
+  },
+  {
+    "id": "zone_4",
+    "name": "Zone 4: Swamp",
+    "min_level": 20,
+    "enemies": [
+      "enemy_46",
+      "enemy_3",
+      "enemy_36",
+      "enemy_29",
+      "enemy_25"
+    ]
+  },
+  {
+    "id": "zone_5",
+    "name": "Zone 5: Cave",
+    "min_level": 25,
+    "enemies": [
+      "enemy_37",
+      "enemy_18",
+      "enemy_31",
+      "enemy_6",
+      "enemy_2"
+    ]
+  },
+  {
+    "id": "zone_6",
+    "name": "Zone 6: Forest",
+    "min_level": 30,
+    "enemies": [
+      "enemy_31",
+      "enemy_3",
+      "enemy_33",
+      "enemy_27",
+      "enemy_39"
+    ]
+  },
+  {
+    "id": "zone_7",
+    "name": "Zone 7: Desert",
+    "min_level": 35,
+    "enemies": [
+      "enemy_20",
+      "enemy_11",
+      "enemy_28",
+      "enemy_26",
+      "enemy_31"
+    ]
+  },
+  {
+    "id": "zone_8",
+    "name": "Zone 8: Forest",
+    "min_level": 40,
+    "enemies": [
+      "enemy_27",
+      "enemy_31",
+      "enemy_2",
+      "enemy_18",
+      "enemy_1"
+    ]
+  },
+  {
+    "id": "zone_9",
+    "name": "Zone 9: Desert",
+    "min_level": 45,
+    "enemies": [
+      "enemy_16",
+      "enemy_19",
+      "enemy_28",
+      "enemy_39",
+      "enemy_42"
+    ]
+  }
+]
